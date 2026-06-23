@@ -1,6 +1,6 @@
 bash
 cat > /mnt/user-data/outputs/README.md << 'EOF'
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&width=435&lines=hey%2C+i'm+ismail+%F0%9F%91%8B;frontend+dev+%26+ai+tinkerer;building+things+that+matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&width=435&lines=hey%2C+i'm+ismail;frontend+dev+%26+ai+tinkerer;building+things+that+matter)](https://git.io/typing-svg)
 
 cs student @ jss mysore · open to internships
 
@@ -34,24 +34,6 @@ cs student @ jss mysore · open to internships
 
 ---
 
-### trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sinIsmail&theme=tokyonight&no-frame=true&column=6&margin-w=8"/>
-</p>
-
----
-
-### what i build
-
-**[FinSight](https://github.com/sinIsmail/finsight)** — ai financial analyzer. runs 100% on your device, no data leaves your browser.
-`react` `typescript` `python` `ollama`
-
-**[Food Scanner](https://github.com/sinIsmail/ffads)** — barcode scanner that rates food against fssai/who standards with ai commentary.
-`react native` `gemini ai` `supabase`
-
----
-
 ### activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sinIsmail&theme=tokyo-night&hide_border=true&bg_color=00000000)
@@ -66,7 +48,3 @@ cs student @ jss mysore · open to internships
 </p>
 EOF
 echo "done"
-
-Output
-done
-Done
