@@ -1,5 +1,4 @@
-bash
-cat > /mnt/user-data/outputs/README.md << 'EOF'
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&width=435&lines=hey%2C+i'm+ismail;frontend+dev+%26+ai+tinkerer;building+things+that+matter)](https://git.io/typing-svg)
 
 cs student @ jss mysore · open to internships
@@ -29,7 +28,7 @@ cs student @ jss mysore · open to internships
 
 <!-- replace YOUR_LEETCODE_USERNAME with your actual leetcode username -->
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap&border=0&radius=10"/>
+  <img src="https://leetcard.jacoblin.cool/demdismail?theme=dark&ext=heatmap&border=0&radius=10"/>
 </p>
 
 ---
