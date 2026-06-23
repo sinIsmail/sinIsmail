@@ -3,7 +3,7 @@
 <!-- Header & Typing Effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=150&section=header&text=Mohammed%20Ismail&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=hey%2C+i'm+ismail+👋;frontend+dev+%26+ai+tinkerer;building+things+that+matter;react+native+%7C+python+%7C+ai)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=hey%2C+i'm+ismail;frontend+dev+%26+ai+tinkerer;building+things+that+matter;react+native+%7C+python+%7C+ai)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,14 +18,7 @@
 
 ### ✦ about me
 
-<div align="left">
 
-- 🚀 Currently building **Ffidz** (food scanner) & **FinSight** (financial dashboard)
-- 🧠 Tinkering with **AI integration, self-healing APIs, and React Native**
-- 🎓 Pursuing a B.Voc in Software Development
-- ⚡ **Fun fact:** I'm obsessed with minimalist UI design and cinematic car edits
-
-</div>
 
 ---
 
@@ -64,10 +57,6 @@
 <!-- Leetcode & GitHub Activity Graphs -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/devmdismail?theme=dark&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinIsmail&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Activity Graph"/>
 </p>
 
 ---
