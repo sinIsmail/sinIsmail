@@ -1,45 +1,68 @@
-<div align="center">
 
-<!-- 1. THE HERO SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=mohammed%20ismail.&fontSize=65&fontAlign=50&fontAlignY=40&desc=Frontend%20Architect%20%7C%20AI%20Integrator&descAlign=50&descAlignY=65&descSize=20&animation=fadeIn" alt="Name Display" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&width=435&lines=hey%2C+i'm+ismail;frontend+dev+%26+ai+tinkerer;building+things+that+matter)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&pause=2000&color=A1A1AA&center=true&vCenter=true&width=600&lines=writing+code+so+i+don't+have+to+talk+to+people.;building+minimalist+UI+%26+self-healing+APIs.;commerce+kid+turned+software+dev.;probably+fixing+a+React+Native+dependency." alt="Typing Subtitle" />
-</a>
 
-<br/>
+---
 
-<!-- STEALTH SOCIALS -->
+
+### skills
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,reactnative,python,tailwind,html,css,mongodb,supabase,git,vscode&theme=dark)](https://skillicons.dev)
+
+
+---
+
+
+### stats
+
+
 <p align="center">
-  <a href="https://sinismail.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=CCFF00" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/devmdismail">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=CCFF00" alt="LinkedIn" />
-  </a>
-  <a href="mailto:devmdismail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=CCFF00" alt="Email" />
-  </a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sinIsmail&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" height="165"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinIsmail&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
+
 </p>
 
-<br/>
 
-</div>
+<p align="center">
 
-<!-- 2. CURRENT STATE OF DELUSION (Native Terminal Box) -->
-### ✦ current state of delusion
+  <img src="https://streak-stats.demolab.com?user=sinIsmail&theme=tokyonight&hide_border=true&background=00000000"/>
 
-```json
-{
-  "building": {
-    "Ffidz": "because food scanning shouldn't be garbage.",
-    "FinSight": "crying over bank statements wasn't aesthetic enough, so i built a dashboard."
-  },
-  "background": "Commerce (HEBA) -> B.Voc in Software Dev. Figured tech pays better.",
-  "hyperfixations": [
-    "Apple/Notion-level UI",
-    "AI Agents",
-    "Cinematic car edits (Lancers & Cretas)"
-  ],
-  "status": "if it's not clean, i don't want it."
-}
+</p>
+
+
+---
+
+
+### leetcode
+
+
+<!-- replace YOUR_LEETCODE_USERNAME with your actual leetcode username -->
+
+<p align="center">
+
+  <img src="https://leetcard.jacoblin.cool/devmdismail?theme=dark&ext=heatmap&border=0&radius=10"/>
+
+</p>
+
+
+---
+
+
+<p align="center">
+
+  <a href="https://sinismail.github.io/portfolio"><img src="https://img.shields.io/badge/portfolio-sinismail.github.io-6E40C9?style=flat-square"/></a>
+
+  <a href="https://linkedin.com/in/devmdismail"><img src="https://img.shields.io/badge/linkedin-devmdismail-0A66C2?style=flat-square&logo=linkedin"/></a>
+
+  <a href="mailto:devmdismail@gmail.com"><img src="https://img.shields.io/badge/email-devmdismail@gmail.com-EA4335?style=flat-square&logo=gmail"/></a>
+
+  <img src="https://komarev.com/ghpvc/?username=sinIsmail&color=6E40C9&style=flat-square&label=views"/>
+
+</p>
+
+EOF
+
+echo "done" 
