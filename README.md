@@ -1,16 +1,47 @@
-## Hi there 👋
-
-<!--
-**sinIsmail/sinIsmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# hey, i'm ismail 👋
+ 
+frontend dev • ai tinkerer • cs student @ jss mysore
+ 
+---
+ 
+### what i build
+ 
+**[FinSight](https://github.com/sinIsmail)** — ai financial analyzer that runs entirely on your device. no data leaves your browser.
+`react` `typescript` `python` `ollama`
+ 
+**[Food Scanner](https://github.com/sinIsmail)** — barcode scanner that rates food against fssai/who standards with ai commentary.
+`react native` `gemini ai` `supabase`
+ 
+---
+ 
+### stack
+ 
+```
+languages   js (es2022+) · typescript · python · java · c
+frontend    react · react native · tailwind · html · css
+ai/llm      langchain · langgraph · gemini · ollama
+databases   mongodb · supabase · sql
+```
+ 
+---
+ 
+### activity
+ 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sinIsmail&theme=react-dark&hide_border=true&bg_color=00000000)
+ 
+---
+ 
+### leetcode
+ 
+<!-- replace YOUR_LEETCODE_USERNAME below with your actual leetcode username -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/Avatardevmdismail?theme=dark&ext=heatmap&border=0)
+ 
+---
+ 
+### find me
+ 
+[![portfolio](https://img.shields.io/badge/portfolio-sinismail.github.io-black?style=flat-square)](https://sinismail.github.io/portfolio)
+[![linkedin](https://img.shields.io/badge/linkedin-devmdismail-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/devmdismail)
+[![email](https://img.shields.io/badge/email-devmdismail@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:devmdismail@gmail.com)
+ 
+![views](https://komarev.com/ghpvc/?username=sinIsmail&color=blueviolet&style=flat-square&label=profile+views)
