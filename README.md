@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=FFFFFF&width=435&lines=hey%2C+i'm+ismail+👋;full-stack+developer;building+Ffidz+%26+FinSight;ai+tinkerer" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=24&pause=1000&color=FFFFFF&width=435&lines=hey,+i'm+ismail;full-stack+developer;building+Ffidz+and+FinSight;ai+tinkerer)](https://git.io/typing-svg)
+
+
 
 <p align="center">
   <a href="https://sinismail.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -12,7 +14,7 @@
 
 ### 💻 Architecture & Stack
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,js,ts,python,java,tailwind,mongodb,supabase,git,vscode&theme=dark" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,python,java,tailwind,mongodb,supabase,git,vscode&theme=dark" alt="Skills" />
 
 <br/><br/>
 
