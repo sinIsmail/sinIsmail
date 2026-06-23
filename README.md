@@ -1,18 +1,5 @@
 # hey, i'm ismail 👋
  
-frontend dev • ai tinkerer • cs student @ jss mysore
- 
----
- 
-### what i build
- 
-**[FinSight](https://github.com/sinIsmail)** — ai financial analyzer that runs entirely on your device. no data leaves your browser.
-`react` `typescript` `python` `ollama`
- 
-**[Food Scanner](https://github.com/sinIsmail)** — barcode scanner that rates food against fssai/who standards with ai commentary.
-`react native` `gemini ai` `supabase`
- 
----
  
 ### stack
  
@@ -33,8 +20,7 @@ databases   mongodb · supabase · sql
  
 ### leetcode
  
-<!-- replace YOUR_LEETCODE_USERNAME below with your actual leetcode username -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/Avatardevmdismail?theme=dark&ext=heatmap&border=0)
+![LeetCode Stats](https://leetcard.jacoblin.cool/devmdismail?theme=dark&ext=heatmap&border=0)
  
 ---
  
