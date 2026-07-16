@@ -26,31 +26,30 @@
 
 ### 📊 The Dashboard
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr style="border: none; background-color: transparent;">
-    <td width="50%" align="center" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sinIsmail&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=8b949e&icon_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sinIsmail&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
     </td>
-    <td width="50%" align="center" style="border: none; background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinIsmail&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=8b949e" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
-
-### 🧠 Grind & Consistency
-
-<table align="center" style="border: none; background-color: transparent;">
-  <tr style="border: none; background-color: transparent;">
-    <td width="50%" align="center" style="border: none; background-color: transparent;">
-      <img src="https://streak-stats.demolab.com?user=sinIsmail&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=8b949e&sideNums=FFFFFF&sideLabels=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
-    </td>
-    <td width="50%" align="center" style="border: none; background-color: transparent;">
-      <img src="https://leetcard.jacoblin.cool/devmdismail?theme=dark&ext=heatmap&border=0&radius=0" alt="LeetCode" />
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=sinIsmail&theme=transparent&background=00000000&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <br/>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sinIsmail&layout=compact&theme=transparent&bg_color=00000000&hide_border=true&title_color=FFFFFF&text_color=8B949E&langs_count=8" alt="Top Languages" />
+</p>
+
+<br/>
+
+### 🧠 Grind & Consistency
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/devmdismail?theme=dark&ext=heatmap&border=0&radius=0" alt="LeetCode" />
+</p>
 
 ### 🐍 Activity Graph
 
@@ -62,8 +61,14 @@
 
 <br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sinIsmail&color=8b949e&style=flat-square&label=Profile+Views" alt="Views" />
-</p>
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=sinIsmail&style=for-the-badge&color=8B949E&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/sinIsmail?style=for-the-badge&color=8B949E&labelColor=000000" />
+<img src="https://img.shields.io/github/stars/sinIsmail?affiliations=OWNER&style=for-the-badge&color=8B949E&labelColor=000000" />
+
+</div>
 </div>
